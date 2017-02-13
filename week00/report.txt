@@ -1,0 +1,6 @@
+Pada minggu ke-0(week 0) kami disuruh membuat akun Google dan GitHub untuk
+menunjang pengerjaan tugas Sistem Operasi. Setelah membuat akun diatas sesuai
+dengan instruksi yang disediakan, kami diharuskan untuk mengisi form yang
+telah disediakan oleh tim pengajar. Setelah itu menunggu kurang lebih 24 jam
+untuk konfirmasi, apabila akun-akun kami telah terdaftar. Setelah terdaftar
+kami login pada badak.cs.ui.ac.id. Selesai.
